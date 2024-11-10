@@ -44,8 +44,4 @@ cmake_install.cmake
 *.xcodeproj
 
 # Ignore Visual Studio Code workspace and configuration files
-.vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
+/.vscode
