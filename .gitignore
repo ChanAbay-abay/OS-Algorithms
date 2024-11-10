@@ -1,0 +1,44 @@
+# Compiled object files
+*.o
+*.obj
+
+# Executable files
+*.exe
+*.out
+*.a
+*.so
+*.dylib
+
+# macOS files
+.DS_Store
+Thumbs.db
+
+# Debugging files
+*.dSYM/
+*.log
+
+# Temporary files created by editors
+*~
+
+# Vim swap files
+*.swp
+
+# Backup files created by editors
+*.bak
+
+# CodeBlocks project files
+*.layout
+
+# JetBrains CLion IDE files
+.idea/
+cmake-build-*/
+
+# Makefile output
+Makefile
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+
+# Generated files for Xcode
+*.xcworkspace
+*.xcodeproj
