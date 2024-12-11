@@ -42,7 +42,7 @@ int main() {
     printf("Enter the track size: ");
     scanf("%d", &disk.track_size);
 
-    printf("Enter the current position of the disk arm: ");
+    printf("Current Position: ");
     scanf("%d", &disk.current_position);
 
     // Get the number of requests

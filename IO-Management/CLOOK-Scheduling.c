@@ -103,9 +103,9 @@ int main() {
     int initial_position, total_tracks;
 
     // Get the total number of tracks and the initial position of the disk arm
-    printf("Enter the total number of tracks on the disk (in units): ");
+    printf("Track Size: ");
     scanf("%d", &total_tracks);
-    printf("Enter the initial position of the disk arm (in track units): ");
+    printf("Current Position ");
     scanf("%d", &initial_position);
 
     // Seek rate and alpha input
